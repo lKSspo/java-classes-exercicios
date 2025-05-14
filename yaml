@@ -1,0 +1,8 @@
+
+## 🚀 Executando os arquivos
+
+Para compilar e executar um exemplo, use:
+
+```bash
+javac ParteX/NomeDaClasse.java
+java ParteX.Main
